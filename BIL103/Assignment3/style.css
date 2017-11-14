@@ -1,0 +1,83 @@
+body, a{
+	background-color: #282525;
+	font-family: Monaco, 'Lato', monospace;
+	color: #989898;
+	text-align: center;
+	font-size: 15px;
+}
+
+form {
+	padding: 0px;
+	text-align: center;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	display: fixed;
+}
+
+input[type=text], [type=password] {
+
+	margin: 10px;
+	width: 310px; 
+	height: 27px;
+	color: #F8F8F8;
+	border: 2px dashed #989898;
+	background: #484848;
+	text-align: center;
+	font-size: medium; 
+	display: fixed;
+}
+
+input[type=submit] {
+	margin-top: 10px;
+    padding:7px 18px; 
+    background:#484848;
+
+    color: #F8F8F8; /* #05DE27; */
+    border: 1px solid rgba(0, 0, 0, 0.35); /* Border */
+    border-radius: 5px; 
+    font-size: medium; 
+}
+
+input[type=checkbox] {
+	margin-top: 10px;
+    color: #989898;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {  /*safari and chrome*/
+    select {
+        height:30px;
+        width: 155px;
+        line-height:30px;
+        background:#484848;
+		border-color: #6B6A6A;
+		color: #989898;
+		margin-bottom: 2.5px;
+		font-size: 13px; 
+    } 
+}
+select::-moz-focus-inner { /*Remove button padding in FF*/ 
+    border: 0;
+    padding: 0;
+}
+@-moz-document url-prefix() { /* targets Firefox only */
+    select {
+        padding: 15px 0!important;
+    }
+}        
+@media screen\0 { /* IE Hacks: targets IE 8, 9 and 10 */        
+    select {
+        height:30px;
+        line-height:30px;
+    }     
+}
+
+div#fibans {
+	margin: 30px;
+	text-align: center;
+	padding: 30px;
+	background: #484848;
+	border-radius: 4px 4px 4px 4px;
+	color: #05DE27;
+}

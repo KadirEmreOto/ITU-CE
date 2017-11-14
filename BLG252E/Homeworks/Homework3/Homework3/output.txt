@@ -1,0 +1,30 @@
+**********************
+Number of items:2
+1: Chocolate Chip Cookies #10 Cost: 150
+
+2: Cake Mix Cookies #16 Cost: 280
+
+**********************
+Total cost: 464.4
+**********************
+We don't have enough cookies!
+**********************
+Number of items:1
+1: Chocolate ice cream #1.5 Cost: 255
+
+**********************
+Total cost: 275.4
+**********************
+Discount rate is out of range!
+**********************
+Number of items:2
+1: Gummi bears Cost: 1068
+
+2: Hanukkah gelt Cost: 880
+
+**********************
+Total cost: 2103.84
+Discount: %15
+Discount amount: -315.576
+Discounted cost: 1788.26
+**********************

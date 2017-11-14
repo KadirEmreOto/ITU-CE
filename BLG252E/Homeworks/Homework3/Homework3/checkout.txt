@@ -1,0 +1,15 @@
+!!! We don't have 7 (Orange Jelly Candy)s.
+!!! We don't have 11 (Chocolate ice cream)s.
+**********************
+Number of items: 4
+1: Chocolate Chip Cookies #2 Cost: 100
+2: Orange Jelly Candy #5 Cost: 750
+3: Chocolate ice cream #2 Cost: 480
+4: Cake Mix Cookies #10 Cost: 150
+**********************
+Total cost: 1598.4
+Discount: 10%
+Discount amount: -159.84
+Discounted cost: 1438.56
+**********************
+

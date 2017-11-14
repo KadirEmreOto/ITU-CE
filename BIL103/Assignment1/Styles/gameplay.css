@@ -1,0 +1,38 @@
+
+body {
+	font-family: 'Lato', monospace;
+}
+
+h1{
+	text-align: center;
+	color: #D24444;  /* Dark Red */
+	font-family: monospace;
+	margin-top: 50px;
+	font-size: 35px;
+}
+
+h2 {
+	font-size: 20px;
+	color: #D24444;  /* Dark Red */
+
+	text-indent: 40px;
+}
+
+div.row {
+	display: inline-block;
+}
+
+div.row > img {
+	width: 600px;
+	height: 500px;
+}
+
+iframe {
+	width: 600px;
+	height: 400px;
+
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}

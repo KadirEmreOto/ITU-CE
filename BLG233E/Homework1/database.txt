@@ -1,0 +1,23 @@
+Eugenia Mark	Corbin Pierce	gastric infection	2934	12	INTERNAL
+Harvey Baker	Jerrold Daniel	cataract	2837	10	OPHTHALMOLOGY
+Wilburn Reed	Sarah Hutson	ulcer	2944	13	INTERNAL
+Otto Godfrey	Corbin Pierce	reflux	2334	12	INTERNAL
+Sybil Harford	Jerrold Daniel	hypermetropia	4895	10	OPHTHALMOLOGY
+Peter Martel	Corbin Pierce	gastritis	4958	12	INTERNAL
+Dawn Woodhams	Jerrold Daniel	myopia	3456	10	OPHTHALMOLOGY
+Flora Layton	Corbin Pierce	ulcer	5643	12	INTERNAL
+Andra Sidney	Sarah Hutson	gastritis	3820	13	INTERNAL
+Casey Stephens	Jerrold Daniel	astigmatism	4532	10	OPHTHALMOLOGY
+Beatrice Close	Corbin Pierce	laryngitis	2012	12	INTERNAL
+Dallas Delaney	Jerrold Daniel	dermatocyst	3475	10	OPHTHALMOLOGY
+Brenton Reed	Corbin Pierce	enteric infection	1029	12	INTERNAL
+Zachery Harvey	Jerrold Daniel	conjunctivitis	3213	10	OPHTHALMOLOGY
+Racquel Kendal	Jerrold Daniel	allergic conjunctivitis	3498	10	OPHTHALMOLOGY
+Gillian Stamp	Sarah Hutson	laryngitis	2831	13	INTERNAL
+Gerald Putnam	Jerrold Daniel	keratitis	5423	10	OPHTHALMOLOGY
+Linton Wilmer	Corbin Pierce	stomach insufficiency	1235	12	INTERNAL
+Lacey Shepherd	Corbin Pierce	pharyngitis	2357	12	INTERNAL
+Kerry Russel	Corbin Pierce	pneumonia	6789	12	INTERNAL
+Chesley Waller	Jerrold Daniel	sty	4231	10	OPHTHALMOLOGY
+Rolland Bennett	Jerrold Daniel	myopia	3827	10	OPHTHALMOLOGY
+Trent Tennison	Sarah Hutson	gastric infection	3842	13	INTERNAL

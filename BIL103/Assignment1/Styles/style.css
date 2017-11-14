@@ -1,0 +1,110 @@
+
+body {
+	font-family: 'Lato', monospace;
+	background-color: rgba(241, 195, 67, 0.72); /*#f4f1ea;*/
+}
+
+#icon {
+	text-align: center;
+}
+
+#icon img{
+	width: 97px;
+	height: 97px;
+	padding-left: 50px;
+	text-align: center;
+	opacity: .7;
+}
+
+#logo img {
+	width:37%;
+	opacity: .5;
+	display:block;
+	margin: auto; /* centering */
+	margin-bottom: -15px;
+}
+
+#logo img:hover {
+	opacity: 1;
+	-webkit-transition: opacity .2s;
+}
+
+
+h1#title {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.content {
+	margin: 40px;
+	margin-top: 50px;
+	padding-right: 50px;
+	padding-left: 50px;
+
+	font-family: arial, Lato;
+}
+
+.content > h2 {
+	font-size: 23px;
+	font-style: italic;
+	font-family: "Times New Roman", monospace;
+	color: rgba(0, 110, 255, 0.95); /*blue*/
+	text-indent: 30px;
+}
+
+
+.content p {
+	text-indent: 30px;
+}
+
+.content q:hover > a {
+	display: inline;
+}
+
+.content a {
+	color: #D24444;
+	display: none;
+	text-decoration: underline;
+}
+
+.contentlist > li {
+	padding-top: 10px;
+}
+
+.contentlist > li:hover {
+	list-style: square;
+}
+
+.contentlist > li:hover > span {
+	color: #D24444;
+	text-decoration: underline;
+}
+
+table#weapons {
+	margin-top: 41px;
+	margin-left: auto;
+    margin-right: auto;
+
+	font-size: 130%;
+	text-align: center;
+
+	border-spacing: 3px;
+	border-collapse: separate;
+}
+
+table#weapons td, th {
+	padding: 5px;
+}
+
+table#weapons tr:nth-child(even) {
+	background-color: rgba(0, 0, 0, 0.07);
+}
+
+table#weapons tr:nth-child(odd) {
+	background-color: rgba(0, 0, 0, 0.17);
+
+}
+
+span.bold {
+	font-weight: bold;
+}

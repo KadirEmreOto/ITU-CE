@@ -1,0 +1,24 @@
+
+
+ol {
+	margin-top: 50px;
+	margin-right: auto;
+	
+	font-family: monospace;
+    font-size: 17px;
+}
+
+ol > li {
+	margin-top: 10px;
+}
+
+ol > li > ul > li {
+	list-style-type: square;
+}
+
+
+
+span.date {
+	font-style: italic;
+	color: red;
+}

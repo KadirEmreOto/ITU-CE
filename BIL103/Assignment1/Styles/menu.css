@@ -1,0 +1,95 @@
+
+div#menu {
+	text-align: center;
+}
+
+div#menu > ul {
+	padding: 0;   /* Düzgün ortalanmasını sağlıyor */
+	list-style: none;
+}
+
+div#menu > ul > li {
+	display:inline-block;
+	margin: 0px 3px;
+}
+
+div#menu > ul > li > a {
+	color: #333333;
+	font-size: 14px;
+	letter-spacing: 0.7px;
+
+	padding: 7px 17px;
+	text-decoration: none;
+	border: 1px solid rgba(0, 0, 0, 0.35); /* Border */
+	border-style: dashed;
+	background-color: rgba(0, 0, 0, 0.03);
+	border-radius: 4px 4px 4px 4px; /* make the corner of border circular */
+	z-index: 1;
+}
+
+div#menu > ul > li > a:hover{
+	border-style: solid;
+	background-color: rgba(0, 0, 0, 0.050);
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5) inset;
+}
+
+/* Dropdown Menu */
+div#menu ul ul {
+  background: #f4f1ea;
+  border-radius: 5px;
+  border: 1px solid #dddddd;
+  position: relative;
+  -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+  display: block;
+  list-style: none;
+  margin: 0px;
+  padding: 5px 0 !important;
+  min-width: 200px;
+  z-index: 20;
+}
+div#menu ul ul li {
+  min-height: 22px;
+  float: none;
+  position: relative;
+}
+div#menu ul ul li a{
+  text-decoration: none;
+  background-color: transparent;
+  box-shadow: none;
+  display: block;
+  padding: 6px 15px;
+  color: #555555 !important;
+  text-transform: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+div#menu ul ul li a:active,
+div#menu ul ul li a:focus,
+div#menu ul ul li a:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+div#menu li ul{
+  position: absolute;
+  height: auto;
+  min-width: 200px;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 300ms linear;
+  z-index: 1000;
+
+  margin-top: 15px;
+}
+
+div#menu li:hover > ul{
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+
+

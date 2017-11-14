@@ -1,0 +1,8 @@
+Name	Type	ItemCount	Price
+Chocolate Chip Cookies	1	4	600
+Orange Jelly Candy	2	5	150
+Cake Mix Cookies	1	12	180
+Peanut Butter Chocolate Chip Cookies	1	3	120
+Chocolate ice cream	3	2	240
+Gummi bears	2	15	300
+Raspberry Ripple	3	12	250

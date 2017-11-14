@@ -1,0 +1,52 @@
+
+	- Applications of AI in ?(Military)?
+		- Applications of AI to Defense Agains Cyber Crimes (Selma, Hüseyin & Mustafa, 2015, p.21)
+			- Artificial Neural Network Applications(Selma, Hüseyin & Mustafa, 2015, p.25)
+			- Intelligent Agent Applications (Selma, Hüseyin & Mustafa, 2015, p.26)
+			- Artificial Immune System Applications (Selma, Hüseyin & Mustafa, 2015, p.28)
+			- Genetic Algorithm and Fuzzy Sets Applications (Selma, Hüseyin & Mustafa, 2015, p.29)
+
+		- Applications of AI in (War Field?) (during war?) (Warfare?) (Aziz, nd, p.263)
+			- Autonomous land vehicle (Aziz, nd, p.265)
+			- Pilot's associate (Aziz, nd, p.266)
+			- Naval battle management (Aziz, nd, p.267)
+
+	- The Issues (Patrick, George & Keith, 2009, p.55)
+		- Legal Challenges (Patrick, George & Keith, 2009, p.55)
+			- Unclear Responsibility
+			- Refusing an Order
+			- Consent by Soldiers to Risks
+
+		- Just War Challenges (Patrick, George & Keith, 2009, p.56)
+			- Attack Decisions
+			- Lower Barriers for War
+			- Imprecion in LOW and ROE
+
+		- Technical Challenges (Patrick, George & Keith, 2009, p.58)
+			- Discriminating among Targets
+			- First-Generation Problem
+			- Robots Running Amok
+			- Unauthorized Overrides
+			- Competing Ethical Frameworks
+			- Coordinated Attacks
+
+		- Human-Robot Challanges (Patrick, George & Keith, 2009, p.60)
+			- Effects on Squad Cohesion
+			- Self-Defense
+			- Winning Hearts and Minds
+			- Comfort Robots
+
+		- Societal Challanges (Patrick, George & Keith, 2009, p.62)
+			- Counter-Tactics in Asymmetric War
+			- Proliferation
+			- Space Race
+			- Technology Dependency
+			- Civil Securiy and Privacy
+
+
+	- Concerns
+		- Concerns about its Military Applications (Todd)
+
+	- Economic aspect of military robots introduction in practice (Ales)
+		- on the side of the industry (Ales)
+		- on the Side of the Armed Forces and Government (Ales)

@@ -1,0 +1,25 @@
+ 1) Görev dağılımı: Machine Learning (Ar-Ge)
+ 2) Coursera Andrew NG Machine Learning Introduction
+ 3) YouTube -> Machine Learning Algorithms
+ 4) Python Machine Learning Libraries
+ 5) continued
+ 6) TensorFlow
+ 7) mnist data set -> handwritten digit recognition
+ 8) New Project: Recommendation Engine
+ 9) Youtube videos
+    - urls come here
+10) Big csv file reader with chunks
+11) TensorFlow with GPU on ubuntu
+12) Academic Articles - Netflix Contest
+13) Optimizers in TensorFlow
+    - https://www.quora.com/Which-optimizer-in-TensorFlow-is-best-suited-for-learning-regression
+    Analysis: result.txt
+14) Overview of Recommender Systems | Stanford University
+    - https://www.youtube.com/watch?v=1JRrCEgiyHM
+    Testing
+15) Kibana Server - Elastic Search: gathering data from FilBox 
+    - python request module - fetching data
+    - python json module - converting data to python dictionary
+    - python csv module - creating csv file for recommendation engine
+16) Testing Recommendation engine with FilBox Data
+	
