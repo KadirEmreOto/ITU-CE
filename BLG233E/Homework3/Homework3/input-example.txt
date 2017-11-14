@@ -1,0 +1,3 @@
+abs ( product -2 -4 -8 )
+div ( sum ( exp 2 3 ) ( sqrt ans ) ) 3
+mod 4 ans
