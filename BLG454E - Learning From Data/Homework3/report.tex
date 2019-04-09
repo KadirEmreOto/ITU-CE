@@ -1,0 +1,58 @@
+%=======================02-713 LaTeX template, following the 15-210 template==================
+%
+% You don't need to this template
+%
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt plus 1pt}
+\setlength{\headheight}{13.6pt}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+\newcommand\question[2]{\vspace{.25in}\hrule\textbf{#1: #2}\vspace{.5em}\hrule\vspace{.10in}}
+\renewcommand\part[1]{\vspace{.10in}\textbf{(#1)}}
+\newcommand\header[4]{\begin{center}{#1} \\ {#2} \\ {#3} \\ \textbf{#4} \end{center}}
+
+\begin{document}\raggedright
+
+\header
+	{ITU Computer and Informatics Faculty}
+	{BLG 454E Learning From Data, Spring 2018}
+	{Homework \#3}
+	{Due May 3, 2018 10pm}
+
+\begin{center}
+	Kadir Emre Oto \\
+	(150140032)
+\end{center}
+
+\question{1}{PCA}
+
+\part{a} (3 pts) What are the main motivations for reducing a dataset’s dimensionality?
+
+\part{b} (3 pts) How can you evaluate the performance of a dimensionality reduction algorithm on your dataset?
+
+\part{c} (2 pts) What do you say about the performance of PCA in Figure 1 in terms of classification?
+
+\part{d} (2 pts) What is/are drawback(s) of PCA?
+\begin{itemize}
+	\item PCA may not success if the input data lies on a complex manifold. 
+	\item PCA makes an assumption that the normality of the input space distribution is comparative. 
+	\item For better results, the input data should be real and continuous.
+\end{itemize}
+
+\part{e} (40 pts) Implement a PCA projection on given the data.txt. The last attribute of the data.txt is the class label, range from 0..9.
+
+
+\question{2}{SVD}
+
+(50 pts) You are going to look at compressing the given RGB image, data.jpg, through computing the singular value decomposition (SVD). Each channel (red, green, blue) has 1537 × 2500 pixels which is a 1537 × 2500 matrix A.
+
+\part{a} (35 pts) Find the SVD of A (one for each channel).
+
+\part{b} (15 pts) Display the original image and image obtained from a rank (term) of 1, 5, 20, 50 SVD
+approximation of A as shown in Figure 3.
+
+\end{document}

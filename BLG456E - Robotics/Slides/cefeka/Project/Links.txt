@@ -1,0 +1,11 @@
+https://www.arduino.cc/en/Tutorial/Sweep
+
+https://www.arduino.cc/en/Tutorial/Knob
+
+https://www.robotix.in/tutorial/opencv/comm/
+
+
+https://arbmf.wordpress.com/2015/03/15/serial-communication-between-arduino-and-your-computer-visual-cvisual-studio-i-e-with-opencv-etc/
+
+
+https://www.youtube.com/watch?v=UiDXnww0LQ4

@@ -1,0 +1,145 @@
+%=======================02-713 LaTeX template, following the 15-210 template==================
+%
+% You don't need to this template
+%
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{mathtools}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt plus 1pt}
+\setlength{\headheight}{13.6pt}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+\newcommand\question[2]{\vspace{.25in}\hrule\textbf{#1: #2}\vspace{.5em}\hrule\vspace{.10in}}
+\renewcommand\part[1]{\vspace{.10in}\textbf{(#1)}}
+\newcommand\header[3]{\begin{center}{#1} \\ {#2} \\ \textbf{#3} \end{center}}
+
+\begin{document}\raggedright
+
+\header
+	{MAT 271E Probability and Statistics, Spring 2018}
+	{Homework \#2}
+	{Due Nov 11, 2018 11pm}
+
+\begin{center}
+	Kadir Emre Oto \\
+	(150140032)
+\end{center}
+
+\question{Section 3.1}{Random Variables}
+
+\part{3.20} Determine the mean and variance for the following continuous random variable X with probability density function f(x) given by
+
+\[
+f(x) =
+\begin{cases}
+\cfrac{1}{\lambda} \cdot e^{-x/\lambda} & \text{; $x>=0$ and $\lambda$ $> 0$} \\
+0 & \text{; otherwise}
+\end{cases}
+\]
+
+\begin{eqnarray*}
+	\mu_x &=& \int_{-\infty}^{\infty}x  \cdot f(x) dx \\
+%	&=&  \int_{-\infty}^{0}  x  \cdot f(x) dx +  \int_{0}^{\infty}x  \cdot f(x) dx \\ %
+	&=&  \int_{-\infty}^{0}x \cdot 0  \cdot dx +  \int_{0}^{\infty}x  \cdot \cfrac{1}{\lambda}  \cdot e^{-x/\lambda}dx \\
+	&=&  \cfrac{1}{\lambda} \cdot \int_{0}^{\infty}x \cdot e^{-x/\lambda}dx \\
+	&=&  \cfrac{1}{\lambda} \cdot (x \cdot (-\lambda) \cdot e ^ {-x/\lambda}  \Big|_0^\infty - \int_{0}^{\infty}\lambda \cdot e^{-x/\lambda}dx )  \\
+	&=&  \cfrac{1}{\lambda} \cdot (0 + \lambda * \lambda \cdot e ^ {-x/\lambda}  \Big|_0^\infty )  \\
+	&=& \lambda \\
+	\sigma_x^2 &=& \int_{-\infty}^{\infty}(x -\mu_x)^2f(x)dx \\
+%	&=&  \int_{-\infty}^{0}(x -\mu_x)^2f(x)dx +  \int_{0}^{\infty}(x -\mu_x)^2f(x)dx \\ %
+	&=&  \int_{-\infty}^{0}(x - \lambda)^2 \cdot 0 \cdot dx +  \int_{0}^{\infty}(x - \lambda)^2 \cdot  \cfrac{1}{\lambda} \cdot e^{-x / \lambda} dx \\
+	&=&  \cfrac{1}{\lambda} \cdot \int_{0}^{\infty}(x - \lambda)^2 * e^{-x / \lambda} *dx \\
+	&=&  \cfrac{1}{\lambda} \cdot ((x - \lambda)^2 \cdot (-\lambda \cdot e^{-x / \lambda})\Big|_0^\infty - \int_{0}^{\infty}-\lambda * e^{-x / \lambda} \cdot 2 \cdot (x - \lambda) dx) \\
+	&=&   \cfrac{1}{\lambda} \cdot (0 + 2\lambda \cdot (\int_{0}^{\infty} x * e^{-x / \lambda} *dx - \lambda \int_{0}^{\infty} e^{-x / \lambda} dx )) \\
+	&=&   \cfrac{1}{\lambda} \cdot (0 + 2\lambda * (\lambda \cdot \lambda + \lambda \cdot \lambda )) \\
+	&=& 4 \lambda^2 \\
+\end{eqnarray*}
+\clearpage
+
+\question{Section 3.2}{Permutations and Combinations}
+
+\part{3.20} A company wants to purchase 4 electronic systems. After all the system models were reviewed, 8 foreign made and 10 U.S. made systems were considered to satisfy all the security requirements for the company. \\
+\part{a} if the systems are chosen at random, find the probability that 2 of the systems selected are foreign made. \\
+
+\[
+P(x) = \cfrac{ {8\choose 2} * {10\choose 2} }{  {18\choose 4} } = \cfrac{ 28 * 45 }{ 3060 } =  0.41176
+\]
+
+\part{b} what is the probability that all the four systems selected are U.S. made? \\
+
+\[
+P(x) = \cfrac{  {10\choose 4} }{ {18\choose 4}} = \cfrac{ 210 }{ 3060 } =  0.06862
+\]
+
+\part{c} what is the probability that all of the 4 systems selected are foreign made?
+
+\[
+P(x) = \cfrac{  {8\choose 4} }{ {18\choose 4}} = \cfrac{ 70 }{ 3060 } =  0.022875
+\]
+
+\part{d} what is the probability that at least 2 of the systems are U.S. made?
+
+\[
+P(x) = 1 - \left( \cfrac{  {8\choose 4} }{ {18\choose 4}} + \cfrac{ {8\choose 3} * {10\choose 1} }{  {18\choose 4} } \right) =  0.794117
+\]  \\ \ \\
+\part{3.40} If 3 persons are to be selected randomly from 5 persons for a committee, determine the different possible combinations. \\
+
+\[
+{5\choose 3} = 10 
+\]
+
+\clearpage
+
+\question{Section 3.3}{Discrete Distributions}
+
+\part{3.45} Batches of 50 shock absorbers from a production process are tested for conformance to quality requirements. The mean number of non-conforming absorbers in a batch is 5. Assume that the number of non-conforming shock absorbers in a batch, denoted as x, is a binomial random variable. \\
+
+\part{a} find n and p \\
+
+
+\part{b} find p(x ≤ 2) \\
+\part{c} find p(x ≥ 49). \\ \ \\
+
+\part{3.49} Five per cent of a large batch of high-strength steel components purchased for a mechanical system are defective. \\
+
+\part{a} if seven components are randomly selected, find the probability that exactly three will be defective \\
+
+\part{b} find the probability that two or more components will be defective. \\ \ \\
+
+\part{3.57} The probability that a person undergoes a heart operation will recover is 0.6. Determine the probability that of the six patients who undergo similar heart operation: \\
+
+\part{a} none will recover \\
+\part{b} all will recover \\
+\part{c} half will recover \\
+\part{d} at least half will recover. \\ \ \\
+
+\part{3.59} Given that the probability of an individual patient suffers a bad reaction from injection of a particular serum is 0.001. Determine the probability that out of 2000 individual patients. \\
+
+\part{a} exactly 3 individuals will suffer a bad reaction \\
+\part{b} more than 2 individuals will suffer a bad reaction. Use Poisson distribution. \\ \ \\
+
+\part{3.60} Use binomial distribution and repeat Problem 3.59. \\
+
+\clearpage
+
+\question{Section 3.4}{Continuous Probability Distributions}
+
+\part{3.72} The mass, μ, of a particular electronic component is normally distributed with a mean of 66 g and a standard deviation of 5 g. Determine \\
+
+\part{a}  the per cent of components that will have a mass less than 72 g \\
+\part{b}  the per cent of components that will have a mass in excess of 72 kg \\
+\part{c}  the per cent of components that will have a mass between 61 and 72 g. \\
+
+\question{Section 3.4}{Approximating Probability Distributions}
+
+\part{3.80} Determine the probability that in a sample of 10 machine components chosen at random, exactly two will be defective by using \\
+
+\part{a}  the binomial distribution \\
+\part{b}  the Poisson approximate to the binomial distribution. \\ \ \\
+Given that 10\% of the machine components produced in that manufacturing process are defective.
+
+\end{document}

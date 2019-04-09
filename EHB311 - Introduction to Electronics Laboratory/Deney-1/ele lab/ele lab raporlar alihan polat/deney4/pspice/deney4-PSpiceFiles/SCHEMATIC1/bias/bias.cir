@@ -1,0 +1,19 @@
+** Profile: "SCHEMATIC1-bias"  [ C:\Users\Alihan\Desktop\ITU COURSES\EHB311el - Ele Lab\raporlar alihan polat\deney 4\pspice\deney4-pspicefiles\schematic1\bias.sim ] 
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Alihan\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 10m 0 
+.OPTIONS ADVCONV
+.PROBE64 V(*) I(*) W(*) D(*) NOISE(*) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

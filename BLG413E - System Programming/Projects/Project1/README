@@ -1,0 +1,10 @@
+kill_test.c takes one command-line argument flag, and creates 2 child processes, then sets one of child process flag value 1, and kills it.
+gcc kill_test.c
+./a.out 1 
+./a.out 0
+ 
+
+fork_test.c takes one command-line argument flag, and sets the main flag of process according to given value, and tries to fork it.  
+gcc fork_test.c
+./a.out 1 
+./a.out 0

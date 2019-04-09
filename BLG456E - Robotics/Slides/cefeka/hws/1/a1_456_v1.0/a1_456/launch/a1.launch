@@ -1,0 +1,51 @@
+
+<launch>
+
+  <!-- start the simulator with some objects and turtlebot -->
+
+  <include file="$(find turtlebot_gazebo)/launch/turtlebot_world.launch" >
+    <arg name="world_file" value="worlds/willowgarage.world"/>  
+  </include>
+  
+  <!-- start the gmapping module -->
+  
+  <include file="$(find turtlebot_navigation)/launch/includes/gmapping.launch.xml"/>
+  
+  <!-- Keep advanced navigation off while doing mapping -->
+  <!-- <include file="$(find turtlebot_navigation)/launch/includes/amcl.launch.xml">
+    <arg name="initial_pose_x" value="0.0"/>
+    <arg name="initial_pose_y" value="0.0"/>
+    <arg name="initial_pose_a" value="0.0"/>
+  </include> -->
+
+  <!-- Keep motion planning off while doing mapping-->
+  
+  <!--<include file="$(find turtlebot_navigation)/launch/includes/move_base.launch.xml"/> -->
+  
+  <!-- start some nice visualisations from the robot's perspective -->
+  
+  <include file="$(find turtlebot_rviz_launchers)/launch/view_navigation.launch"/>
+  
+  <!-- block the entrances with some extra objects -->
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_polaris_ranger_ev1" args="-database polaris_ranger_ev -gazebo -model polaris_ranger_ev1 -x -9.439339 -y -19.000145 -z 0.000371 -R 0 -P 0 -Y 0">
+  </node> 
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_polaris_ranger_ev2" args="-database polaris_ranger_ev -gazebo -model polaris_ranger_ev2 -x -2.999295 -y 23.999997 -z 0.000371 -R 0 -P 0 -Y 0">
+  </node> 
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_polaris_ranger_ev3" args="-database polaris_ranger_ev -gazebo -model polaris_ranger_ev3 -x 27.437727 -y -2.000001 -z 0.000371 -R 0 -P 0 -Y 0">
+  </node> 
+  <node pkg="gazebo_ros" type="spawn_model" name="spawn_polaris_ranger_ev4" args="-database polaris_ranger_ev -gazebo -model polaris_ranger_ev4 -x 30.021457 -y 8.415569 -z 0.000371 -R 0 -P 0 -Y 0">
+  </node> 
+  
+  
+  <!-- the referee node -->
+  
+  <node pkg="a1_456" type="referee_node_a1_456" name="referee_node_a1_456" output="screen"> 
+  </node> 
+  
+  
+  <!-- the student's assignment solution node -->
+  
+  <node pkg="a1_456" type="explorer_node_a1_456" name="explorer_node_a1_456"  output="screen">  
+  </node> 
+  
+</launch>

@@ -1,0 +1,12 @@
+ilk olarak merdobot.world dosyasinda duzeltilmesi gereken pathler var yoksa robot beyaz bi kup seklinde gorunuyor haritada.
+benim attigim zipte merdobot/worlds/merdobot.world icinde search yapip shaq yazin. 10 kusur tane path olmasi 
+gerekiyor hepsini kendinizinkine gore duzenlersiniz.
+catkin_make yaptiktan sonra,
+bir konsolda 
+roslaunch merdobot merdobot.launch
+gazebo ve rviz acildiktan sonra baska bir konsolda
+rosrun tf tf_echo /map /base_link
+bu da calistiktan sonra baska bir konsolda haritayi yukluyoruz
+ilk olarak /home/<user_name>/catkin_ws/src/merdobot/maps/tutorial.yaml bu dosyayi acip en bastaki directorye bulundugu klasordeki pngnin adresini yaziyoruz.
+roslaunch turtlebot_navigation amcl_demo.launch map_file:=/home/<user_name>/catkin_ws/src/merdobot/maps/tutorial.yaml
+sonrasinda ister teleopla ister rvizden 2d nav goal vererek robotu hareket ettiriyoruz.

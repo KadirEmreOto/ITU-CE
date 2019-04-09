@@ -1,0 +1,36 @@
+; Kadir Emre Oto
+; 150140032
+
+
+START	LDA	a, %00000000	
+		STA	a, <yönlen.a>  	; switches are input now
+		LDA	a, %11111111
+		STA	a, <yönlen.b>	; switches are output now
+
+LOOP	LDA	a, <iskele.a>	; get the input data to a
+
+		LSR	a			; shift a left 5 times, it means divide by 32
+		LSR	a			; a holds how many leds should be on
+		LSR	a
+		LSR	a
+		LSR	a
+
+		LDA	b, %00000001	
+			
+CHK		CMP	a, %00000000 	; append 1 to b a times
+		BEQ	LGHT
+		LSL	b
+		INC	b
+		DEC	a
+		BRA	CHK
+
+LGHT	STA	b, <iskele.b>	; turn on the leds
+		BRA	LOOP
+
+
+		
+
+
+
+
+

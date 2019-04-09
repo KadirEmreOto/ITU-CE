@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Game::dfs(int, int):kod.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "trace">
+            </PersistentString>
+            <PersistentString
+               value = "visited">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Game::run(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):kod.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Game::bfs():kod.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

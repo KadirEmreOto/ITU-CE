@@ -1,0 +1,8 @@
+* source DENEY4
+E_U1         VOUT 0 VALUE {LIMIT(V(N00929,N00548)*1E6,-15V,+15V)}
+R_R1         N00788 N00548  10k TC=0,0 
+R_R4         N00929 0  10k TC=0,0 
+R_R5         N00548 VOUT  100k TC=0,0 
+V_V2         N00788 0  
++PULSE 1V -1V 0.5m 1p 1p 0.5m 1m
+C_C1         N00548 VOUT  10n  TC=0,0 

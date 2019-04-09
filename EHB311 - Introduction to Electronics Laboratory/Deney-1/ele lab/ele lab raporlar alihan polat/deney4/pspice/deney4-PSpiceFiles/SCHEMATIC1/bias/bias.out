@@ -1,0 +1,89 @@
+
+**** 10/01/14 23:52:44 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\Alihan\Desktop\ITU COURSES\EHB311el - Ele Lab\raporlar alihan polat\deney 4\pspice\deney4-
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "bias.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Users\Alihan\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 10m 0 
+.OPTIONS ADVCONV
+.PROBE64 V(*) I(*) W(*) D(*) NOISE(*) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source DENEY4
+E_U1         VOUT 0 VALUE {LIMIT(V(N00929,N00548)*1E6,-15V,+15V)}
+R_R1         N00788 N00548  10k TC=0,0 
+R_R4         N00929 0  10k TC=0,0 
+R_R5         N00548 VOUT  100k TC=0,0 
+V_V2         N00788 0  
++PULSE 1V -1V 0.5m 1p 1p 0.5m 1m
+C_C1         N00548 VOUT  10n  TC=0,0 
+
+**** RESUMING bias.cir ****
+.END
+
+**** 10/01/14 23:52:44 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\Alihan\Desktop\ITU COURSES\EHB311el - Ele Lab\raporlar alihan polat\deney 4\pspice\deney4-
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+( VOUT)   -9.9999  (N00548) 10.00E-06 (N00788)    1.0000 (N00929)    0.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V2        -1.000E-04
+
+    TOTAL POWER DISSIPATION   1.00E-04  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 10/01/14 23:52:44 ****** PSpice Lite (October 2012) ****** ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-bias"  [ C:\Users\Alihan\Desktop\ITU COURSES\EHB311el - Ele Lab\raporlar alihan polat\deney 4\pspice\deney4-
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .02
+
