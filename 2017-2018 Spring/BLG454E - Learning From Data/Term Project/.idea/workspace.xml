@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94540a0d-37af-46ba-b368-c5577189d2c6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG212E/Homework2/1137396.mib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG212E/Homework2/BLG212E_2017_2018_FALL_HW2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG212E/Slides/07ParallelComm.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG212E/Slides/08SerialComm.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG212E/Slides/09StackSubroutineInterrupt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG212E/Slides/BLG212E_2017_2018_FALL_MT2_SEATING_PLAN.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project2.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/1a.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/2a.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/2b.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/2c.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/COrgReport2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/Project2Part1.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/Project2Part2.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3 2/Project3.circ" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG233E/Lab7/kod2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework1/Report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework1/Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework1/ca_2017-2018_hw1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework2/Report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework2/Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework2/ca_2017-2018_hw2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework3/Report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework3/Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework3/homework3.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework4/Report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework4/Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Homeworks/Homework4/ca_2017-2018_hw4.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/01. Introduction.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/02. Pipelining.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/03. IO Organization and Bus Operations.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/04. Interrupt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/05. Direct Memory Access (DMA) 2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/05. Direct Memory Access (DMA).pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG322E/Source/06. Cache Memory.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-set-100k-sorted.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-set-100k.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-set-10k-sorted.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-set-10k.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-set-1M-sorted.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-set-1M.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-sets/hs-set-100k-sorted.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-sets/hs-set-100k.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-sets/hs-set-10k-sorted.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-sets/hs-set-10k.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-sets/hs-set-1M-sorted.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/hs-sets/hs-set-1M.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/kod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework1/out.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/150140032.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/Report.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/aoa_proj3_handout.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/back.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/back2.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/ds-set-input.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/ds-set-lookup.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/kod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/kod.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/output-dict.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework3/output-list.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/BLG335E_project4_handout.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4.xcodeproj/xcuserdata/KEO.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4.xcodeproj/xcuserdata/KEO.xcuserdatad/xcschemes/HomeWork4.xcscheme" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4.xcodeproj/xcuserdata/KEO.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4/kod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/HomeWork4/HomeWork4/kod.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/Report.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/in2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/input.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/kod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Homeworks/Homework4/kod.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/08_SortingInLinearTime.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/09_OrderStatistics_Brief.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/10_ElementaryDataStructures.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/11_Hashing.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/12_RBTrees.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/13_AugmentingDataStructures.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/14_AmortizedAnalysis.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/15_BTrees.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/16_BinomialHeaps.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/17_fibonacciHeapKWayne.ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/AmortizedAnalysis.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/AugmentingDataStructures.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/BLG335E-midterm-seatingplan.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/BST.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/Course plan-Fall17.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/Hashing.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/LinearTimeSorting.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/OrderStatistics.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/Quicksort.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/RB-Trees.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/lec2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/xcdebugger/Expressions.xcexplist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1.xcodeproj/xcuserdata/KEO.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1.xcodeproj/xcuserdata/KEO.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/Figures/algo2-2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/Figures/algo2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/Figures/algo2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/Figures/bipartite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/Project_1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/kod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/kod.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/kod.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/old.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework1/Homework1/res.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2.xcodeproj/xcuserdata/KEO.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/Project_2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/big" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/data.rar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/data/data1000.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/data/data10000.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/data/data25000.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/data/data5000.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/generate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/in" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/kod" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/kod 2.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/kod 3.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/kod.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/kod.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/kodkey.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework2/Homework2/report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework3/Homework3.xcodeproj/project.pbxproj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework3/Homework3.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework3/Homework3.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework3/Homework3.xcodeproj/xcuserdata/KEO.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Homework3/Homework3/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/01Intro.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/01demo-propose-and-reject[1].ppt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/01stable-matching.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/02analysis.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/03demo-dag.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/03graphs.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/04Greedy_Demo_PrimKruskal.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/04demo-dijkstra.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/04demo-interval-scheduling.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG336E/Source/04greed.ppt.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/.idea/Homework1.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/5.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/6.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/8.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/figure1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/hw1_2016_2017_spring.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/kod.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/report.aux" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/report.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/report.synctex.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/report.tex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework1/report.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/.idea/Homework2.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/.idea/dictionaries/KEO.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/150140032_KadirEmreOto_HW2.aux" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/150140032_KadirEmreOto_HW2.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/150140032_KadirEmreOto_HW2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/150140032_KadirEmreOto_HW2.synctex.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/150140032_KadirEmreOto_HW2.tex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/150140032_KadirEmreOto_HW2.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/convolution.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/convolution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/hw2_2017_2018_spring.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/my_conv.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/my_conv.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/my_conv2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/noisyCameraman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Homework2/result.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Signal Processing First-Prentice Hall (2003) - James H. McClellan, Ronald W. Schafer, Mark A. Yoder.PDF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L01.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L02.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L03.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L04.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L05.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L06.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Slides/SPFirst-L07.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/BLG354ELearningOutcomes.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/CTsinusoidDTSinusoidsUniqueness.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/DTFourierSeriesPartialSum.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/DTSinusoidsFrequencyOscillations.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/MidtermSeatingPlan.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/PeriodicityDTSinusoids.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals - Systems 2018 Week 2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals - Systems 2018 Week 3.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals - Systems 2018 Week1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals and Systems 2018 Week 5.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals and Systems 2018 Week 6.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals and Systems 2018 Week 7.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/Signals and Systems 2018 Week4.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Source/StudyProblems_LTI_Conv_FS.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/Syllabus-BLG354E-2018Spring.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG354E/hw-template.tex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/01.giris.basi.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/02.baginti-modeli.basi.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/03.baginti-cebri.basi.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/04.uygulama-gelistirme.basi.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/05.veri-tabani-tasarimi.basi.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/06.eszamanli-calisma.basi.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG361/Slides/07.nosql.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG411E/Recitations/Recitation4 - 2017.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG411E/Recitations/main.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG411E/Software Final Notes.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG411E/Software Final Notes.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/ACM_Code of Ethics.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/BLG412_SYLLABUS.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/DERS-SLAYTLARI.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Ders-Slaytlarç/01-giris.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Ders-Slaytlarç/02-kuramlar.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Ders-Slaytlarç/03-profesyonel-etik.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Ders-Slaytlarç/04-mahremiyet.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Ders-Slaytlarç/05-fikri-mulkiyet.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Ders-Slaytlarç/06-internet-ve-toplumsal-etkiler.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/Yazılım Müh.Etik Kuralları.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/sample_exams.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/sample_exams/2017_midterm (corresponds to final).pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG412/Source/sample_exams/2017_quiz (corresponds to midterm).pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Ethem Alpaydin-Introduction to Machine Learning-The MIT Press (2014).pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/SyllabusBLG454E-2018Spring.pptx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/data.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/figure_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/hw1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/kod.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/lecture1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/report.aux" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/report.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/report.tex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework1/report_Mac.tex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/.idea/Homework2.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/.idea/dictionaries/KEO.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/150140032.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/bezdekIris.data.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/datatest.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/datatrain.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/decision_boundaries.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/hw2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/iris.data.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/problem1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/problem2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/report.aux" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/report.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/report.synctex.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../Homework2/report.tex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Assignment2/2Assign2015Fall456.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Assignment2/Assignment2 Competition Results.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Assignment2/kod.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Assignment2/trajectory_referee_456v1.1.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Assignment2/trajectory_skeleton_456v1.2.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/Merdobot_Report.pages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/Merdobot_Report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/CMakeLists.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/launch/merdobot.launch" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/maps/tutorial.pgm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/maps/tutorial.yaml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/package.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/src/ball_finder.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/src/camera.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/src/listener.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/src/requirements.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/src/run.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/merdobot/worlds/merdobot.world" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../BLG456E/Project/src/requirements.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ELEgiris-deney1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/Screen Shot 2017-12-06 at 23.44.24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/WhatsApp Image 2017-11-30 at 11.28.46.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/WhatsApp Image 2017-11-30 at 11.28.55.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/WhatsApp Image 2017-11-30 at 11.29.05.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/deney-1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab.rar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/Ele Lab 1.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/Ele Lab 1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/Ele Lab 2.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/Ele Lab 3.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/Ele Lab 3.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/EleLab-4.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/EleLab-4.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/EleLab-5.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/EleLab-5.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/Lab/EleLab-6.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/06012012804.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/06012012805.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/deney 1 raporu.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/deney 2 raporu.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/deney 3 raporu.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/deney 4 raporu.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/deney 5 raporu.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/deney 6 reporu.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/BESLEME GERİLİMİ DÜZENLERİ.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/BeslemeGerilimiDüzenleri.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/Deney Raporu1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/Deney1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/ELH1.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/ELT_1.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/elh den1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY1/elhlab1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/DENEY2.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/DENEY2_2.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/DENEY2_3.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/DENEY_2.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/Deney2_volkan.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/ELT_DEN2.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/Elhlab_deney2.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/elklab_2_rapor.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY2/transistor.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/DENEY_3.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/Deney3.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/ELTDeney 3.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/ELTDeney 3SÜPER GRAFİK.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/ELT_DEN3.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/elt3_VOLK.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY3/eltlab-3YALC.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY4/DENEY  4 Ersin.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY4/Deney 4.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY4/İŞLEMSEL  KUVVETLENDİRİCİLERİN  DOĞRUSAL  UYGULAMALARI.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/DENEY5_2.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/Deney5-fatma.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/Deney5_1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/RAPOR.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/experiment5.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/rpcover2.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY5/İŞLEMSEL KUVVETLENDİRİCİLERİN LİNEER OLMAYAN UYGULAMALARI.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/DENEY5.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/DENEY6.DOC" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/Deneyin İçeriği.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/LOJİK KAPILAR VE İKİLİ DEVRELER.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/LOJİK KAPILAR VE İKİLİ DEVRELER1.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/elh lab 5.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/elelab/DENEY6/kilit-rapor.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/grafik çizdirme.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/grafik.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/kapak.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele LAB1/memmet rapor deney1.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney1/EXPERIMENT 1 REPORT.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney2/elegirişrapor2.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney3/Experiment-3 Report.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/EXPERIMENT 4  REPORT.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/SCHEMATIC1.ALS" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/SCHEMATIC1.net" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/SCHEMATIC1_sch.prp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias.sim" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.1OP" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.cir" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.mrk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.out.1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4-PSpiceFiles/SCHEMATIC1/bias/bias.prb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4.dsn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney4/pspice/deney4.opj" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney5/EXPERIMENT REPORT.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/ele lab/ele lab raporlar alihan polat/deney6/REPORT.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/report.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-1/~$eney-5.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-2/ELEgiris-deney2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-2/deney-2.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-2/deney-2.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-6/ELEgiris-deney6.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-6/deney-6.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-6/deney-6.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../EHB311/Deney-6/~$eney-5.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/24301210_10214950230653613_5524761508310623063_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/24301450_10214950230573611_5724596326925152548_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/24796278_10214950230613612_2005628543253222476_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/25399187_10215881812425174_2062314277999704790_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/25550224_10215881811945162_5196685784838663168_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/Dokunsalar ağlayacağım.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/TUR101.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/Tur101GulsunNakiboglu_20171110084724.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/natmaca1.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../TUR101/sukru_haluk_akalin_turk_dili_dunya_dili.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3.zip.pdf" afterPath="$PROJECT_DIR$/../../BLG222E/Homeworks/Project3.zip" />
+      <change beforePath="$PROJECT_DIR$/../../BLG233E/Lab7/kod2.cpp" afterPath="$PROJECT_DIR$/../../BLG233E/Lab7/kod2.cpp" />
+      <change beforePath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework1/Homework1.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework1/Homework1.xcodeproj/project.xcworkspace/xcuserdata/KEO.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change beforePath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework1/Homework1/SmallVector.a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework1/Homework1/SmallVector.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework1/Homework1/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework1/Homework1/kod" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework3/Homework3/kod" afterPath="$PROJECT_DIR$/../../BLG252E/Homeworks/Homework3/Homework3/kod" />
+      <change beforePath="$PROJECT_DIR$/../../BLG335E/Slides/1.pdf" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/Week1_Ch1_2.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG335E/Slides/2.pdf" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/Week2_Ch2_Ch3.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG335E/Slides/3.pdf" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/Week3_Ch4_Recurrences.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG335E/Slides/4.pdf" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/05_ProbabilisticAnalysisRandomizedAlgorithms.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG335E/Slides/5.pdf" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/06_HeapSort.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG335E/Slides/6.pdf" afterPath="$PROJECT_DIR$/../../BLG335E/Slides/07_Quicksort.ppt.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/01.introduction.print.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/02.relational-model.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/03.relational-algebra.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/04.application-development.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/05.database-design.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/06.concurrency.print.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/07.non-relational-databases.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG361/Slides/08.queryopt2013.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../BLG411E/Slides/09-Software Design I.pdf" afterPath="$PROJECT_DIR$/../../BLG411E/Slides/09-Software Design I.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG411E/Slides/10-Software Design II.pdf" afterPath="$PROJECT_DIR$/../../BLG411E/Slides/10-Software Design II.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../BLG411E/Slides/11-Implementation and Testing I.pdf" afterPath="$PROJECT_DIR$/../../BLG411E/Slides/11-Implementation and Testing I.pdf" />
+      <change beforePath="$PROJECT_DIR$/../../remaining.xlsx" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TermProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="kod.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1635">
+              <caret line="109" column="32" lean-forward="true" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1655-04-19</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/kod2.py" />
+        <option value="$PROJECT_DIR$/analyze.py" />
+        <option value="$PROJECT_DIR$/kod.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TermProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Term Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94540a0d-37af-46ba-b368-c5577189d2c6" name="Default" comment="" />
+      <created>1525273155609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525273155609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23291492" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="0" y="0" width="310" height="612" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23291492" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22818312" sideWeight="0.49511856" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2167382" sideWeight="0.50488144" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleSubmission.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lfd/lib/python3.6/site-packages/six.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sampleSubmission.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="15">
+          <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kod2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="140" column="23" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="140" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#52#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="32" lean-forward="true" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
